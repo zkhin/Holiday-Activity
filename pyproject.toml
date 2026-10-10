@@ -21,7 +21,7 @@ dependencies = [
     "freetype-py",
     "pyglet",
     "libigl",
-    "pygltflib == 1.16.0",
+    "pygltflib ==1.16.5",
     "mujoco == 3.2.5",
     "pycollada",
     "opencv-python",
