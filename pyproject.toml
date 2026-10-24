@@ -22,7 +22,7 @@ dependencies = [
     "pyglet",
     "libigl",
     "pygltflib == 1.16.0",
-    "mujoco == 3.2.5",
+    "mujoco ==3.17.0",
     "pycollada",
     "opencv-python",
     "lxml",
